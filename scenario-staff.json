@@ -45,7 +45,15 @@
     "available_time": "2019/08/24 06:30 +0800",
     "expire_time": "2019/08/24 17:00 +0800",
     "countdown": 0,
-    "related_scenario": [
+    "attr": [
+      {
+        "row_name": "飲食",
+        "attr_name": "diet",
+        "value": {
+          "素": "vegetarian",
+          "葷": "meat"
+        }
+      }
     ]
   }
  }
