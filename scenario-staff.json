@@ -1,0 +1,52 @@
+{
+  "day1checkin": {
+    "order": 0,
+    "display_text": {
+      "en-US": "Day 1 Check-in",
+      "zh-TW": "Day 1 報到"
+    },
+    "available_time": "2019/08/23 07:30 +0800",
+    "expire_time": "2019/08/23 17:00 +0800",
+    "countdown": 0,
+    "attr": [
+      {
+        "row_name": "飲食",
+        "attr_name": "diet",
+        "value": {
+          "素": "vegetarian",
+          "葷": "meat"
+        }
+      }
+    ],
+    "deliver_puzzle": 2
+  },
+  "kit": {
+    "order": 1,
+    "display_text": {
+      "en-US": "T-Shirt",
+      "zh-TW": "衣服尺寸"
+    },
+    "available_time": "2019/08/22 13:30 +0800",
+    "expire_time": "2019/08/25 00:00 +0800",
+    "countdown": 300,
+    "attr": [
+      {
+        "row_name": "shirt_size",
+        "attr_name": "shirt_size"
+      }
+    ]
+  },
+  "day2checkin": {
+    "order": 2,
+    "display_text": {
+      "en-US": "Day 2 Check-in",
+      "zh-TW": "Day 2 報到"
+    },
+    "available_time": "2019/08/24 06:30 +0800",
+    "expire_time": "2019/08/24 17:00 +0800",
+    "countdown": 0,
+    "related_scenario": [
+    ]
+  }
+ }
+  
