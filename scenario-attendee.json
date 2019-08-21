@@ -1,0 +1,54 @@
+{
+  "day1checkin": {
+    "order": 0,
+    "display_text": {
+      "en-US": "Check-in",
+      "zh-TW": "報到"
+    },
+    "available_time": "2019/08/23 08:20 +0800",
+    "expire_time": "2019/08/24 15:00 +0800",
+    "countdown": 0,
+    "deliver_puzzle": 2,
+    "attr": [
+      {
+        "row_name": "diet",
+        "attr_name": "diet",
+        "value": {
+          "素": "vegetarian",
+          "葷": "meat"
+        }
+      },
+      {
+        "row_name": "shirt_size",
+        "attr_name": "shirt_size"
+      },
+      {
+        "row_name": "taiwan",
+        "attr_name": "taiwan"
+      },
+      {
+        "row_name": "backpack",
+        "attr_name": "backpack"
+      },
+      {
+        "row_name": "circle",
+        "attr_name": "circle"
+      }
+    ]
+  },
+  "vip_party": {
+    "order": 1,
+    "display_text": {
+      "en-US": "VIP Party",
+      "zh-TW": "晚宴"
+    },
+    "available_time": "2019/08/23 17:00 +0800",
+    "expire_time": "2019/08/23 22:00 +0800",
+    "countdown": 30,
+    "not_lock_rule": {
+      "row_name": "party",
+      "value_match": "Y",
+      "not_match_disable_message": "VIP Only"
+    }
+  }
+}
