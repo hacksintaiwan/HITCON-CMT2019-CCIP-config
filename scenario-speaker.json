@@ -1,1 +1,12 @@
-{}
+{
+  "vip_party": {
+    "order": 0,
+    "display_text": {
+      "en-US": "VIP Party",
+      "zh-TW": "晚宴"
+    },
+    "available_time": "2019/08/23 17:00 +0800",
+    "expire_time": "2019/08/23 22:00 +0800",
+    "countdown": 30
+  }
+}
