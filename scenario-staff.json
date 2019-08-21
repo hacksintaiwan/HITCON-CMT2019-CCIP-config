@@ -10,7 +10,7 @@
     "countdown": 0,
     "attr": [
       {
-        "row_name": "飲食",
+        "row_name": "diet",
         "attr_name": "diet",
         "value": {
           "素": "vegetarian",
@@ -23,7 +23,7 @@
   "kit": {
     "order": 1,
     "display_text": {
-      "en-US": "clothes",
+      "en-US": "Clothes",
       "zh-TW": "領取衣服"
     },
     "available_time": "2019/08/22 13:30 +0800",
@@ -51,7 +51,7 @@
     "countdown": 0,
     "attr": [
       {
-        "row_name": "飲食",
+        "row_name": "diet",
         "attr_name": "diet",
         "value": {
           "素": "vegetarian",
@@ -61,4 +61,4 @@
     ]
   }
  }
-  
+
