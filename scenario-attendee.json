@@ -11,14 +11,6 @@
     "deliver_puzzle": 2,
     "attr": [
       {
-        "row_name": "diet",
-        "attr_name": "diet",
-        "value": {
-          "素": "vegetarian",
-          "葷": "meat"
-        }
-      },
-      {
         "row_name": "shirt_size",
         "attr_name": "shirt_size"
       },
@@ -33,6 +25,14 @@
       {
         "row_name": "circle",
         "attr_name": "circle"
+      },
+      {
+        "row_name": "diet",
+        "attr_name": "diet",
+        "value": {
+          "素": "vegetarian",
+          "葷": "meat"
+        }
       }
     ]
   },
